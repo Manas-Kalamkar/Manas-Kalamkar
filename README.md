@@ -1,8 +1,7 @@
 <table align="center">
   <tr>
-    <!-- LEFT: TEXT CONTENT -->
     <td align="left" width="60%">
-      
+
 <h1>Hey 👋 I'm Manas Kalamkar</h1>
 
 <p>
@@ -13,19 +12,12 @@
 </p>
 
 <h3>A passionate frontend developer from India 🇮🇳</h3>
-
-    </td>
-
-    <!-- RIGHT: GIF -->
-    <td align="right" width="40%">
-      <img 
-        src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif"
-        width="280"
-        alt="Developer GIF"
-      />
-    </td>
+<td align="right" width=40%>
+  <img src="https://raw.githubusercontent.com/manas-kalamkar/manas-kalamkar/main/assets/coder.gif" width="280" alt="Developer GIF" />
+</td>
   </tr>
 </table>
+
 
 ## 🚀 About Me
 
